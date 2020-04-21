@@ -74,8 +74,8 @@ https://www.endpandemics.earth
 
 # Revision History
 
-06.04.2020 - added draft flyer and images
-21.04.2020 – added earthday materials
+- 06.04.2020 - added draft flyer and images
+- 21.04.2020 – added earthday materials
 
 # Photo Credits
 
