@@ -4,25 +4,28 @@ This repository contains assets for alliance and campaign partners for sharing a
 
 # EarthDay 2020
 
+The following details are [from this Google Document](https://docs.google.com/document/d/17b0BE0AHzjEqlWBjsavVcMtY0KkqpB-ypysMWAmGaOo/edit?usp=sharing)
+
 ## PRIMARY MESSAGE
 
 Join our movement to EndPandemics by ending commercial trade in wild animals and regenerating nature.
 
 ## SECONDARY MESSAGE
 
-We’re part of a dynamic, global alliance of organizations—representing conservation, finance, security, agroforestry, business, technology, and communications—who are launching the EndPandemics global campaign to address the root cause of all zoonotic outbreaks—rampant commercial wildlife trade and the destruction of nature.
+We are a dynamic, global alliance of organizations—representing conservation, finance, security, agroforestry, business, technology, and communications—who are launching the EndPandemics global campaign to address the root cause of all zoonotic outbreaks—rampant commercial wildlife trade and the destruction of nature. Join us.
 
-## Hashtags
+## WEBSITE LINK
+
+https://endpandemics.earth
+
+## HASHTAGS
 
 Primary: #EndPandemics, #EarthDay2020
 
-## About EndPandemics
+## VIDEO
 
-We are a dynamic, global alliance of organizations—representing conservation, finance, security, agroforestry, business, technology, and communications—who have launched this global campaign to reduce the risks of pandemics by addressing the root cause of all zoonotic outbreaks—rampant commercial wildlife trade and the destruction of nature.
-
-## Video
-
-[View on YouTube](https://youtu.be/O7bR_4hIY1g)
+[View on YouTube](https://www.youtube.com/watch?v=akPJaVaovzo)
+[Contribute Translations](http://tiny.cc/ep-translatevideo)
 
 ## EXAMPLE SOCIAL POSTS
 
@@ -64,6 +67,8 @@ Copy: Mother Earth has our attention with #COVID19, reminding us that every bein
 Copy: Let’s boost our planet’s immunity system so that we can all live healthy, happy lives in harmony with nature. Join us as we work to #EndPandemics with a broad alliance of civil society groups & businesses from around the world. #EarthDay2020 https://endpandemics.earth
 
 Copy: “This is it. This is our wake up call. No one wants to accept a future where our children walk around with masks on their faces.” —@ShawnHeinrichs, #EndPandemics fellow alliance member, co-founder of @Sea_Legacy & founder of @BlueSphereFdn / JOIN US. https://endpandemics.earth
+
+## Chinese
 
 # Questions & Support
 
