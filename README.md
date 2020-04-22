@@ -10,6 +10,20 @@ The following details are [from this Google Document](https://docs.google.com/do
 
 Join our movement to EndPandemics by ending commercial trade in wild animals and regenerating nature.
 
+### Chinese Traditional
+
+斷絕全球流行疫症傳播
+野生動物棲息廣闊山河
+立即終止貿易擴闊生境
+保持距離防止疫症再臨
+
+## Chinese Simplified
+
+断绝全球流行疫症传播
+野生动物栖息广阔山河
+立即终止贸易扩阔生境
+保持距离防止疫症再临
+
 ## SECONDARY MESSAGE
 
 We are a dynamic, global alliance of organizations—representing conservation, finance, security, agroforestry, business, technology, and communications—who are launching the EndPandemics global campaign to address the root cause of all zoonotic outbreaks—rampant commercial wildlife trade and the destruction of nature. Join us.
@@ -67,8 +81,6 @@ Copy: Mother Earth has our attention with #COVID19, reminding us that every bein
 Copy: Let’s boost our planet’s immunity system so that we can all live healthy, happy lives in harmony with nature. Join us as we work to #EndPandemics with a broad alliance of civil society groups & businesses from around the world. #EarthDay2020 https://endpandemics.earth
 
 Copy: “This is it. This is our wake up call. No one wants to accept a future where our children walk around with masks on their faces.” —@ShawnHeinrichs, #EndPandemics fellow alliance member, co-founder of @Sea_Legacy & founder of @BlueSphereFdn / JOIN US. https://endpandemics.earth
-
-## Chinese
 
 # Questions & Support
 
