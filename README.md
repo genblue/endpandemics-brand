@@ -2,22 +2,19 @@
 
 This repository contains assets for alliance and campaign partners for sharing across various social channels.
 
-# EarthDay 2020
-
-The following details are [from this Google Document](https://docs.google.com/document/d/17b0BE0AHzjEqlWBjsavVcMtY0KkqpB-ypysMWAmGaOo/edit?usp=sharing)
-
 ## PRIMARY MESSAGE
 
+### English
 Join our movement to EndPandemics by ending commercial trade in wild animals and regenerating nature.
 
-### Chinese Traditional
+### Chinese (Traditional)
 
 斷絕全球流行疫症傳播
 野生動物棲息廣闊山河
 立即終止貿易擴闊生境
 保持距離防止疫症再臨
 
-## Chinese Simplified
+## Chinese (Simplified)
 
 断绝全球流行疫症传播
 野生动物栖息广阔山河
@@ -41,12 +38,26 @@ Primary: #EndPandemics, #EarthDay2020
 [View on YouTube](https://www.youtube.com/watch?v=akPJaVaovzo)
 [Contribute Translations](http://tiny.cc/ep-translatevideo)
 
+# Everyday is EarthDay 2020, Campaign
+
+Please use the following social posts, coupled with media from the repo found [here](/media). Media is in the following image formats for various social channels
+
+- Facebook Cover, `fbcover`
+- Facebook News, `fbnews`
+- Instagram Post, `instaPost`
+- Instagram Story, `instaStory`
+- LinkedIn, `linked`
+- Twitter Header, `twHeader`
+- Tweet, `twPost`
+
 ## EXAMPLE SOCIAL POSTS
 
 ### FACEBOOK
 
 Copy: Today marks the 50th anniversary of #EarthDay and Mother Earth has our attention. Join our movement to #EndPandemics by ending commercial wildlife trade and regenerating nature (or Mother Earth).
 Link: https://endpandemics.earth.
+
+![](media/fbCover-tiger2.jpg)
 
 Copy: COVID-19 will never be forgotten. To make sure it never happens again, we must remember why it happened. COVID-19, and other zoonotic outbreaks, jumped from wild animals to people. The animals are not the problem. Our treatment of them and nature is the problem. This #EarthDay, take action for Mother Earth and join our movement to #EndPandemics at https://endpandemics.earth.
 Asset: Video via YouTube or upload directly)
@@ -63,6 +74,8 @@ Link: https://endpandemics.earth.
 
 Copy: Mother Earth has gotten our attention with COVID-19, reminding us that every being has its power and place. This #EarthDay, we’re launching #EndPandemics, led by a global alliance of organizations, to end commercial trade in wild animals and regenerate nature. Join us via the link in our bio.
 
+![](media/instaPost-turtle.jpg)
+
 Copy: Today marks the 50th anniversary of #EarthDay and Mother Earth has our attention. Join our movement to #EndPandemics by ending commercial wildlife trade and regenerating nature—via the link in our bio.
 
 Copy: #COVID19 will never be forgotten. To make sure it never happens again, we must remember why it happened. COVID-19, and other zoonotic outbreaks, jumped from wild animals to people. The animals are not the problem. Our treatment of them and nature is the problem. This #EarthDay, take action for Mother Earth and join our movement to #EndPandemics—via the link in our bio.
@@ -73,6 +86,8 @@ Copy: A new medical cure will not work against the next virus. Stimulus packages
 ### TWITTER
 
 Copy: Today marks the 50th anniversary of #EarthDay and Mother Earth has our attention. If she has yours, join our movement to #EndPandemics by ending commercial wildlife trade and the destruction of nature. https://endpandemics.earth
+
+![](media/twPost-nightmonkey.jpg)
 
 Copy: A new, medical cure will not work against the next virus. Let’s come together & vaccinate the world against more outbreaks through this bold, global wildlife & nature protection program. Our lives & economy depend on it. Join our #EndPandemics campaign. https://endpandemics.earth.
 
