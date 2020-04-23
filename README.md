@@ -57,7 +57,7 @@ Please use the following social posts, coupled with media from the repo found [h
 Copy: Today marks the 50th anniversary of #EarthDay and Mother Earth has our attention. Join our movement to #EndPandemics by ending commercial wildlife trade and regenerating nature (or Mother Earth).
 Link: https://endpandemics.earth.
 
-![](media/fbCover-tiger2.jpg)
+![](media/fbpost-tiger2.jpg)
 
 Copy: COVID-19 will never be forgotten. To make sure it never happens again, we must remember why it happened. COVID-19, and other zoonotic outbreaks, jumped from wild animals to people. The animals are not the problem. Our treatment of them and nature is the problem. This #EarthDay, take action for Mother Earth and join our movement to #EndPandemics at https://endpandemics.earth.
 Asset: Video via YouTube or upload directly)
@@ -87,7 +87,7 @@ Copy: A new medical cure will not work against the next virus. Stimulus packages
 
 Copy: Today marks the 50th anniversary of #EarthDay and Mother Earth has our attention. If she has yours, join our movement to #EndPandemics by ending commercial wildlife trade and the destruction of nature. https://endpandemics.earth
 
-![](media/twPost-nightmonkey.jpg)
+![](media/tweet-nightmonkey.jpg)
 
 Copy: A new, medical cure will not work against the next virus. Let’s come together & vaccinate the world against more outbreaks through this bold, global wildlife & nature protection program. Our lives & economy depend on it. Join our #EndPandemics campaign. https://endpandemics.earth.
 
@@ -106,8 +106,9 @@ https://www.endpandemics.earth
 
 # Revision History
 
-- 06.04.2020 - added draft flyer and images
+- 23.04.2020 - updated material
 - 21.04.2020 – added earthday materials
+- 06.04.2020 - added draft flyer and images
 
 # Photo Credits
 
