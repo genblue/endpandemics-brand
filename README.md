@@ -31,7 +31,7 @@ https://endpandemics.earth
 
 ## HASHTAGS
 
-Primary: #EndPandemics, #EarthDay2020
+Primary: #EndPandemics, #EndTheTrade
 
 ## VIDEO
 
