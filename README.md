@@ -1,6 +1,6 @@
 # End Pandemics - Media kit
 
-This repository contains assets for alliance and campaign partners for sharing across various social channels.
+This repository contains assets for press, alliance, and campaign partners for distribution across social and broadcast channels.
 
 ## PRIMARY MESSAGE
 
