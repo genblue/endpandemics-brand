@@ -35,8 +35,8 @@ Primary: #EndPandemics, #EndTheTrade
 
 ## VIDEO
 
-[View on YouTube](https://www.youtube.com/watch?v=akPJaVaovzo)
-[Contribute Translations](http://tiny.cc/ep-translatevideo)
+- [View on YouTube](https://www.youtube.com/watch?v=akPJaVaovzo)
+- [Contribute Translations](http://tiny.cc/ep-translatevideo)
 
 ## MEDIA
 Please refer to the following image for font, swatch, and gradient use. The forest still is for general background use.
