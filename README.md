@@ -49,14 +49,12 @@ Primary: #EndPandemics.Earth #EndPandemics
 
 - https://endpandemics.earth/tools
 
-## MEDIA
-Please refer to the following image for font, swatch, and gradient use. The forest still is for general background use.
-
+## COLORS
 - Font: Helvetica Neue, Bold [download](media/Muli.zip) 
 
-![](media/branding.png)
+![](brand/branding.png)
 
-![](media/tobias-tullius.jpg)
+![](brand/tobias-tullius.jpg)
 
 # Questions & Support
 
