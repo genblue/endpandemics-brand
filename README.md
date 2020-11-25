@@ -41,7 +41,7 @@ Primary: #EndPandemics.Earth #EndPandemics
 ## VIDEOS
 
 - [CNN Spot #2, Nov 2020](https://youtu.be/cpRT32lcHRM)
-- [CNN Spot #1, Nov 2020](https://youtu.be/-rVD9dkT-yc)
+- [CNN Spot #1, Jun 2020](https://youtu.be/-rVD9dkT-yc)
 - [Original 3 min Spot](https://youtu.be/akPJaVaovzo)
 - [Contribute Translations](http://tiny.cc/ep-translatevideo)
 
