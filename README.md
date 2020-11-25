@@ -46,8 +46,8 @@ Primary: #EndPandemics.Earth #EndPandemics
 - [Contribute Translations](http://tiny.cc/ep-translatevideo)
 
 ## ALLIANCE MEMBER TOOLS
-
 - https://endpandemics.earth/tools
+- [Brand Book]()
 
 ## BRAND ASSETS
 - Font: Helvetica Neue, Bold [download](media/Muli.zip) 
