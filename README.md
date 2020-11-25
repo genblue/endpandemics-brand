@@ -51,13 +51,15 @@ Primary: #EndPandemics.Earth #EndPandemics
 
 ## BRAND ASSETS
 - Font: Helvetica Neue, Bold [download](media/Muli.zip) 
-- Logo: [download](ep-assets-20-nov-2020.zip) or [preview](brand)
+- All Logo Variations: [download all](ep-assets-20-nov-2020.zip) or [preview here](brand)
 
+![](brand/logo-outline@0.25x.png)
 ![](brand/swatches.png)
 
 # Old Assets
-![](media-old/tobias-tullius.jpg)
 - old assets: [view](media-old)
+![](media-old/tobias-tullius.jpg)
+
 
 # QUESTIONS & SUPPORT
 
