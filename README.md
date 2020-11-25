@@ -54,6 +54,7 @@ Primary: #EndPandemics.Earth #EndPandemics
 - All Logo Variations: [download all](ep-assets-20-nov-2020.zip) or [preview here](brand)
 
 ![](brand/logo-outline@0.25x.png)
+![](brand/logo-full-black@0.25x.png)
 ![](brand/swatches.png)
 
 # Old Assets
