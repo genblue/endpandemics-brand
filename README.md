@@ -49,23 +49,26 @@ Primary: #EndPandemics.Earth #EndPandemics
 
 - https://endpandemics.earth/tools
 
-## COLORS
+## BRAND ASSETS
 - Font: Helvetica Neue, Bold [download](media/Muli.zip) 
+- Logo: [download](ep-assets-20-nov-2020.zip) or [preview](brand)
 
-![](brand/branding.png)
+![](brand/swatches.png)
 
-![](brand/tobias-tullius.jpg)
+# Old Assets
+![](media-old/tobias-tullius.jpg)
+- old assets: [view](media-old)
 
-# Questions & Support
+# QUESTIONS & SUPPORT
 
 Have a support request or seeking something different?
 [Reach out to supper](mailto:support@endpandemics.earth)
-
 
 https://www.endpandemics.earth
 
 # Revision History
 
+- 25.11.2020 - update social channels and brand assets
 - 20.11.2020 - added new branding materials
 - 23.04.2020 - updated material
 - 21.04.2020 – added earthday materials
