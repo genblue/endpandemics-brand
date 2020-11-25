@@ -35,8 +35,8 @@ Primary: #EndPandemics.Earth #EndPandemics
 
 ## SOCIAL CHANNELS
 
-[Youtube](https://www.youtube.com/channel/UCOX-n2Br_5LxOSi5mhYYeUA)
-[Twitter](https://twitter.com/endpandemics)
+- [Youtube](https://www.youtube.com/channel/UCOX-n2Br_5LxOSi5mhYYeUA)
+- [Twitter](https://twitter.com/endpandemics)
 
 ## VIDEOS
 
