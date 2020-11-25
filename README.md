@@ -31,16 +31,23 @@ https://endpandemics.earth
 
 ## HASHTAGS
 
-Primary: #EndPandemics, #EndTheTrade
+Primary: #EndPandemics.Earth #EndPandemics
 
-## VIDEO
+## SOCIAL CHANNELS
 
-- [View on YouTube](https://www.youtube.com/watch?v=akPJaVaovzo)
+[Youtube](https://www.youtube.com/channel/UCOX-n2Br_5LxOSi5mhYYeUA)
+[Twitter](https://twitter.com/endpandemics)
+
+## VIDEOS
+
+- [CNN Spot #2, Nov 2020](https://youtu.be/cpRT32lcHRM)
+- [CNN Spot #1, Nov 2020](https://youtu.be/-rVD9dkT-yc)
+- [Original 3 min Spot](https://youtu.be/akPJaVaovzo)
 - [Contribute Translations](http://tiny.cc/ep-translatevideo)
 
-## TOOLKIT
+## ALLIANCE MEMBER TOOLS
 
-- 
+- https://endpandemics.earth/tools
 
 ## MEDIA
 Please refer to the following image for font, swatch, and gradient use. The forest still is for general background use.
@@ -50,8 +57,6 @@ Please refer to the following image for font, swatch, and gradient use. The fore
 ![](media/branding.png)
 
 ![](media/tobias-tullius.jpg)
-
-
 
 # Questions & Support
 
