@@ -50,12 +50,9 @@ Primary: #EndPandemics.Earth #EndPandemics
 - [Brand Book]()
 
 ## BRAND ASSETS
-- Font: Helvetica Neue, Bold [download](media/Muli.zip) 
 - All Logo Variations: [download all](ep-assets-20-nov-2020.zip) or [preview here](brand)
-
-![](brand/logo-outline@0.25x.png)
-![](brand/logo-full-black@0.25x.png)
-![](brand/swatches.png)
+- Font: Helvetica Neue [license](https://www.fonts.com/font/linotype/neue-helvetica) 
+- Font: Muli Bold [download](media/Muli.zip) 
 
 # Old Assets
 - old assets: [view](media-old)
